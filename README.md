@@ -2,6 +2,8 @@
 
 I'm Alex, a Remote Frontend developer from Ukraine with 2+ years of commercial development experience.
 
+![counter](https://en4ta2i0ry54cpv.m.pipedream.net)
+
 ## Languages and Tools I use
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,11 +29,12 @@ I'm Alex, a Remote Frontend developer from Ukraine with 2+ years of commercial d
 [<img align="left" width="50" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />]( http://www.linkedin.com/in/alexander-akhtyrtsev-4113181a3)
 [<img align="left" width="50" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png" />](mailto:a.akhtyrtsev@gmail.com)
 
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAkhtyrtsev&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
 **AlexanderAkhtyrtsev/AlexanderAkhtyrtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
