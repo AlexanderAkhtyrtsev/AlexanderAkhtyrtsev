@@ -2,7 +2,7 @@
 
 I'm Alex, a Remote Frontend developer from Ukraine with 2+ years of commercial development experience.
 
-![counter](https://en4ta2i0ry54cpv.m.pipedream.net)
+<!--![counter](https://en4ta2i0ry54cpv.m.pipedream.net)-->
 
 ## Languages and Tools I use
 
