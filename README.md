@@ -22,7 +22,10 @@ I'm Alex, a Remote Frontend developer from Ukraine with 2+ years of commercial d
 
 
 # Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=dark)](https://git.io/streak-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=default" />
+</picture>
 
 
 ### Connect with me
