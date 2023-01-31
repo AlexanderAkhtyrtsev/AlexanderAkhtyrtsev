@@ -29,9 +29,9 @@ I'm Alex, a Remote Frontend developer from Ukraine with 2+ years of commercial d
 
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAkhtyrtsev&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **AlexanderAkhtyrtsev/AlexanderAkhtyrtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
