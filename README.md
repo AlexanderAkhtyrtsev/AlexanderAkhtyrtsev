@@ -21,7 +21,10 @@ I'm Alex, a Remote Frontend developer from Ukraine with 2+ years of commercial d
 <code><img height="20" title="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=dark)](https://git.io/streak-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=default" />
+</picture>
 
 ### Connect with me
 [<img align="left" width="50" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />]( http://www.linkedin.com/in/alexander-akhtyrtsev-4113181a3)
