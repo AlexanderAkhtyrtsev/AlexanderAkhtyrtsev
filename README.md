@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alex, a Remote Frontend developer from Ukraine with 3+ years of commercial development experience.
+I'm Alex, a Remote Frontend/Fullstack developer from Ukraine with 3+ years of commercial development experience.
 
 ## Languages and Tools I use
 
