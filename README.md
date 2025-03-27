@@ -18,14 +18,15 @@ I'm Alex, a Remote Fullstack developer from Ukraine with 4+ years of commercial 
 <code><img height="20" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" title="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<!--
+
 ### Stats
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderAkhtyrtsev&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=AlexanderAkhtyrtsev&theme=dark" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=AlexanderAkhtyrtsev&theme=default" />
 </picture>
--->
 
 ### Connect with me
 [<img align="left" width="50" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />]( http://www.linkedin.com/in/alexander-akhtyrtsev-4113181a3)
 [<img align="left" width="50" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png" />](mailto:a.akhtyrtsev@gmail.com)
+
