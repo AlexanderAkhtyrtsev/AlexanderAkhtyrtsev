@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alex, a Remote Fullstack developer from Ukraine with 4+ years of commercial development experience.
+I'm Alex, a Remote Fullstack developer from Ukraine with 5+ years of commercial development experience.
 
 ## Languages and Tools I use
 
