@@ -5,6 +5,7 @@ I'm Alex, a Remote Fullstack developer from Ukraine with 5+ years of commercial 
 ## Languages and Tools I use
 
 <code><img height="20" title="PHP" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg"></code>
+<code><img height="20" title="Laravel" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png"></code>
 <code><img height="20" title="Vue JS" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/vue/vue.png"></code>
 <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" title="jQuery" src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg"></code>
