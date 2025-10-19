@@ -28,6 +28,6 @@ I'm Alex, a Remote Fullstack developer from Ukraine with 5+ years of commercial 
 </picture>
 
 ### Connect with me
-[<img align="left" width="50" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />]( http://www.linkedin.com/in/alexander-akhtyrtsev-4113181a3)
-[<img align="left" width="50" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png" />](mailto:a.akhtyrtsev@gmail.com)
+[<img align="left" width="50" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" />]( http://www.linkedin.com/in/alexander-akhtyrtsev-4113181a3)
+[<img align="left" width="50" alt="Email" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png" />](mailto:a.akhtyrtsev@gmail.com)
 
