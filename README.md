@@ -21,9 +21,8 @@ I'm Alex, a Remote Fullstack developer from Ukraine with 5+ years of commercial 
 
 
 ### Stats
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=AlexanderAkhtyrtsev&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AlexanderAkhtyrtsev&theme=dark" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=AlexanderAkhtyrtsev&theme=default" />
 </picture>
 
